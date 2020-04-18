@@ -6,7 +6,7 @@
 
 Note: The processing of your request may take up to 3 days.
 
-![Failed Request]("./Failed Request.png")
+![Failed Request](Failed Request.png)
 
-![Approved Request]("./Approved Request.png")
+![Approved Request](/Approved Request.png)
 
