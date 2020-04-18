@@ -6,7 +6,7 @@
 
 Note: The processing of your request may take up to 3 days.
 
-![Failed Request]("Failed Request.png")
+![Failed Request](https://raw.githubusercontent.com/NicolasRementeria/DeployAR_UdemyCoursePortal/master/Failed%20Request.png)
 
-![Approved Request]("Approved Request.png")
+![Approved Request](https://raw.githubusercontent.com/NicolasRementeria/DeployAR_UdemyCoursePortal/master/Approved%20Request.png)
 
